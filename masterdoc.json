@@ -1,0 +1,17 @@
+[
+{
+"Name": "WVD-Demo",
+"Language": "English",
+"Files": [
+{
+"RawFilePath": "https://raw.githubusercontent.com/singhsupriya2819/demo-onboarding/main/exercise1.md",
+"Order": 1
+},
+{
+"RawFilePath": "https://raw.githubusercontent.com/singhsupriya2819/demo-onboarding/main/exercise2.md",
+"Order": 2
+}
+
+]
+}
+]
